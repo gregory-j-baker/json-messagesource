@@ -1,0 +1,11 @@
+#######################################################################################################################
+#
+# Standard Spring Boot properties. Full reference available at:
+# https://docs.spring.io/spring-boot/docs/2.6.x/reference/htmlsingle/#common-application-properties
+#
+#######################################################################################################################
+
+spring:
+  # see org.springframework.boot.autoconfigure.context.MessageSourceProperties
+  messages:
+    basename: messages
